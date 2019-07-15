@@ -1,5 +1,5 @@
 # NodeJS-Java-implementation
-Example implementation of a Nodejs form client and a Java Server
+Example implementation of a Nodejs-Java client Server implementation
 
 <b><u>Description</u></b>
 
@@ -7,6 +7,6 @@ I had been looking for a NodeJs client to Java server implementation using socke
 
 <b><u>Files</u></b>
 <li>Form.js -- The node js form and client implementation that accepts the inputs </li>
-<li> -- The Java server that listens for incoming connections </li>
+<li>MyServerSocket.java -- The Java server that listens for incoming connections </li>
 
 
